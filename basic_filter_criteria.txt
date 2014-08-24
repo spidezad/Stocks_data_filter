@@ -1,0 +1,9 @@
+$greater
+Volume:9999
+PERatio:10
+DilutedEPS:0
+TrailingAnnualDividendYieldInPercent:3
+DaysLow:0.50
+
+$less
+TrailingAnnualDividendYieldInPercent:10
