@@ -1,0 +1,12 @@
+$greater
+PERATIO:4
+DilutedEPS:0
+AVERAGEDAILYVOLUME:0
+OPEN:0.30
+
+$less
+PERATIO:25
+
+
+$compare
+1:YEARHIGH,OPEN,greater,0 

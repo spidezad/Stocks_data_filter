@@ -1,8 +1,7 @@
 $greater
-Volume:100000
-PERatio:13
-DilutedEPS:0
-DaysLow:0.45 
+VOLUME:1000000
+DAYSLOW:0.35 
+Mean Recommendation (this week):1.1
 
 $less
-TrailingAnnualDividendYieldInPercent:10
+PERATIO:20

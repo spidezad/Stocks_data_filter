@@ -1,0 +1,17 @@
+$greater
+#Volume:100000
+PERATIO:4
+#Current Ratio (mrq):1.5
+Qtrly Earnings Growth (yoy):0
+#DilutedEPS:0
+#DaysLow:0.35 
+
+$less
+PERATIO:12
+#PERCENTCHANGEFROMYEARLOW:100
+Current Ratio (mrq):3
+PEGRATIO:1.5
+#TrailingAnnualDividendYieldInPercent:10
+
+$compare
+1:YEARHIGH,OPEN,greater,0 
